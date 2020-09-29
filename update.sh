@@ -7,7 +7,7 @@ git pull
 
 else 
 
-git clone https://github.com/yuu-ymt/rhocp-demo-contents.git /demo/contents
+git clone https://github.com/fj-s-asai/rhocp-demo-contents.git /demo/contents
 
 fi
 
